@@ -1,5 +1,3 @@
-from typing import Any
-import matplotlib.pyplot as plt
 import mensagens, formatacao, images_ascii
 pilar_autoconsciencia = []
 pilar_autorregulacao = []
